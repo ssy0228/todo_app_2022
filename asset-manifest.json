@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo_app_2022/static/css/main.fad2b6d7.css",
+    "main.js": "/todo_app_2022/static/js/main.f5305ec7.js",
+    "index.html": "/todo_app_2022/index.html",
+    "main.fad2b6d7.css.map": "/todo_app_2022/static/css/main.fad2b6d7.css.map",
+    "main.f5305ec7.js.map": "/todo_app_2022/static/js/main.f5305ec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad2b6d7.css",
+    "static/js/main.f5305ec7.js"
+  ]
+}
